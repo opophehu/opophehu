@@ -45,6 +45,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting and Detecting Traffic Congestion Duration Anomalies](https://medium.com/towards-artificial-intelligence/predicting-and-detecting-traffic-congestion-duration-anomalies-972873feee8a?source=rss-2025ecc5624f------2)
+- [Unsupervised Machine Learning Clustering: Analyzing Covid-19 Mask Sentiment in the USA](https://medium.com/ai-in-plain-english/unsupervised-machine-learning-clustering-analyzing-covid-19-mask-sentiment-in-the-usa-a104170ad9a7?source=rss-2025ecc5624f------2)
+- [Supervised Machine Learning Classification: Predicting Possibility of Steam Game to be On Sale](https://medium.com/ai-in-plain-english/supervised-machine-learning-classification-predicting-possibility-of-steam-game-to-be-on-sale-a0043d0c5ba5?source=rss-2025ecc5624f------2)
+- [Linear Regression: Predicting the Magnitude of Steam discount](https://medium.com/analytics-vidhya/linear-regression-predicting-the-magnitude-of-steam-discount-1cd77591fcaa?source=rss-2025ecc5624f------2)
+- [Exploratory Data Analysis: Maximizing Audience Reach for Women in Tech](https://medium.com/analytics-vidhya/exploratory-data-analysis-maximizing-audience-reach-for-women-in-tech-398099e89d0?source=rss-2025ecc5624f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
