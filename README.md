@@ -49,7 +49,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opophehu&layout=compact)](https://github.com/opophehu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opophehu)](https://github.com/opophehu/github-readme-stats)
 
 ---
 
