@@ -37,6 +37,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [_V game demo](https://www.youtube.com/watch?v=S02pxRoxssk)
+- [Can Detector with R-CNN - Django integrated](https://www.youtube.com/watch?v=recmDwASkKU)
 <!-- YOUTUBE:END -->
 
 ---
