@@ -54,7 +54,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opophehu&hide=jupyter notebook)](https://github.com/opophehu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opophehu&hide=jupyter_notebook)](https://github.com/opophehu/github-readme-stats)
 
 ---
 
