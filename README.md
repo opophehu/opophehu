@@ -47,6 +47,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opophehu&layout=compact)](https://github.com/opophehu/github-readme-stats)
+
+---
+
 <img align="left" alt="opophehu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opophehu&show_icons=true&hide_border=true" />
 
 [whatamiworkingon]: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
