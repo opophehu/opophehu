@@ -37,7 +37,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Traffic congestion anomaly detection presentation (7 mins)](https://www.youtube.com/watch?v=EdQoKbg7_qA&feature=youtu.be)
 - [_V game demo](https://www.youtube.com/watch?v=S02pxRoxssk)
 - [Can Detector with R-CNN - Django integrated](https://www.youtube.com/watch?v=recmDwASkKU)
 <!-- YOUTUBE:END -->
