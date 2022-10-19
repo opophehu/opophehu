@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Time Series Kaggle Competition][whatamiworkingon]!
 - 🌱 I’m currently learning AWS and cloud architecture
 - 👯 I’m looking to collaborate with others to make interesting data science projects
-- 🥅 2020 Goals: stay alive and keep learning
+- 🥅 2022 Goals: stay alive and keep learning
 - ⚡ Fun fact: I love to make models and play racquet sports
 
 ### Connect with me:
