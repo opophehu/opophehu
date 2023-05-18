@@ -1,4 +1,4 @@
-### Hi there, I'm Da - aka Dan 👋
+### Hi there, I'm Da - you can call me Dan 👋
 
 ## I'm Architect, Web Developer, and Data Scientist!
 - I’m currently working on a few proprietary web applications
