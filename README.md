@@ -1,11 +1,11 @@
 ### Hi there, I'm Da - aka [opophehu][website] 👋
 
 ## I'm Architect, Web Developer, and Data Scientist!
-- 🔭 I’m currently working on a [Time Series Kaggle Competition][whatamiworkingon]!
-- 🌱 I’m currently learning AWS and cloud architecture
-- 👯 I’m looking to collaborate with others to make interesting data science projects
-- 🥅 2022 Goals: stay alive and keep learning
-- ⚡ Fun fact: I love to make models and play racquet sports
+- I’m currently working on a few proprietary web applications
+- I’m currently learning Dynamic365 and CRM systems
+- I’m looking to collaborate with others to make interesting projects
+- 2024 Goals: keep learning and make more money
+- Fun fact: I love to make models and play racquet sports
 
 ### Connect with me:
 
