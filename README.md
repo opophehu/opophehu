@@ -1,4 +1,4 @@
-### Hi there, I'm Da - aka [opophehu][website] 👋
+### Hi there, I'm Da - aka Dan[website] 👋
 
 ## I'm Architect, Web Developer, and Data Scientist!
 - I’m currently working on a few proprietary web applications
