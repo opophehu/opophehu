@@ -1,6 +1,6 @@
 ### Hi there, I'm Da - you can call me Dan 👋
 
-## I'm Architect, Web Developer, and Data Scientist!
+## I'm an Architect, a Software Developer, and a Data Scientist!
 - I’m currently working on a few proprietary web applications
 - I’m currently learning Dynamic365 and CRM systems
 - I’m looking to collaborate with others to make interesting projects
